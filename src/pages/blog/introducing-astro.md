@@ -16,7 +16,7 @@ categories:
   - "design"
   - "qwe"
 createdAt: 1661349256850
-updatedAt: 1661349319464
+updatedAt: 1664805486386
 
 ---
 Unfortunately, modern web development has been trending in the opposite direction—towards more. More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
@@ -29,7 +29,7 @@ Today I'm excited to publicly share Astro: a new kind of static site builder tha
 - Fully-Featured: Astro supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any of your favorite npm packages.
 - SEO Enabled: Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication.
 
-## H1 is good
+## H1 is good fgthfghfgh
 
 ### H2 is good too
 
